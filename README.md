@@ -1,6 +1,6 @@
 ## **Data Science Final Project**
 ### **Project Overview**
-This repository contains the final project from my Data Science course at Tulane University done in Jupyter notebooks. The goal of the project is to use skills and concepts learned in the data science course to examine variables associated with areas of high short-term rental property density in New Orleans and predict the likelihood of a short-term rental property being in lose proximity to grocery stores or bars.
+This repository contains the final project from my Data Science course at Tulane University done in Jupyter notebooks. The goal of the project is to use skills and concepts learned in the data science course to examine variables associated with areas of high short-term rental property density in New Orleans and predict the likelihood of a short-term rental property being in close proximity to grocery stores or bars.
 
 ### **Key Features**
 - Data: the primary dataset comes from the City of New Orleans Open Data portal (data.nola.gov) and contains information about short-term rental permit requests and the property status
